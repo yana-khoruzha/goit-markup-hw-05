@@ -510,6 +510,7 @@ img {
 .modal-btn:focus {
   background-color: #404bbf;
   fill: #ffffff;
+  border: none;
 }
 
 .modal-btn-close {
@@ -614,7 +615,6 @@ img {
   font-weight: 400;
   line-height: 1.17;
   letter-spacing: 0.04em;
-  display: flex;
   align-items: center;
   gap: 8px;
 }
