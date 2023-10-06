@@ -615,10 +615,10 @@ img {
   font-weight: 400;
   line-height: 1.17;
   letter-spacing: 0.04em;
-  display: inline-flex;
+  /* display: inline-flex;
   gap: 8px;
   align-items: center;
-  justify-content: center;
+  justify-content: center; */
 }
 
 .checkbox-label-link {
