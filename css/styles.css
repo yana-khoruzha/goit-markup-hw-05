@@ -616,6 +616,9 @@ img {
   line-height: 1.17;
   letter-spacing: 0.04em;
   display: inline-flex;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
 }
 
 .checkbox-label-link {
@@ -647,13 +650,13 @@ img {
   margin: 0 auto;
   min-width: 169px;
   height: 56px;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
-  background-color: #4D5AE5;
+  background-color: #4d5ae5;
   border: none;
   border-radius: 4px;
   font-size: 16px;
@@ -678,12 +681,12 @@ img {
   width: 264px;
   height: 40px;
   border: 1px solid #ffffff;
-  background-color: transparent; 
+  background-color: transparent;
   font-size: 12px;
   line-height: 1.5;
-  letter-spacing: 0.04em; 
+  letter-spacing: 0.04em;
   padding-left: 16px;
-  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15)); 
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
   border-radius: 4px;
   color: #ffffff;
 }
@@ -693,21 +696,21 @@ img {
 }
 
 .subscribe-btn {
-  min-width: 165px; 
-  height: 40px; 
-  display: flex; 
+  min-width: 165px;
+  height: 40px;
+  display: flex;
   justify-content: center;
   align-items: center;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
-  background-color: #4D5AE5;
+  background-color: #4d5ae5;
   border: none;
-  border-radius: 4px; 
+  border-radius: 4px;
 }
 
 .icon-send {
